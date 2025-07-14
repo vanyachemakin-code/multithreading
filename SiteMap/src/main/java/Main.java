@@ -7,7 +7,7 @@ public class Main {
             "/Users/vanyachemakin/IdeaProjects/multithreading/SiteMap/src/main/java/data";
 
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) {
         String link = new ForkJoinPool().invoke(new Links(START_URL));
         SiteMap siteMap = new SiteMap(FOLDER_PATH);
         siteMap.createSiteMap(link);
