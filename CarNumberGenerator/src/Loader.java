@@ -1,6 +1,5 @@
 import numberGenerator.NumberGenerator;
 
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class Loader {
