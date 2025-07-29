@@ -1,3 +1,3 @@
 - first program (SiteMap) create site map with urls
-- second program (Transactions) immitation Bank system with transfers and security system
-- third program (CarNumberGenertor) multithreaded generation car numbers //max 1000 numbers 
+- second program (Transactions) imitation Bank system with transfers and security system
+- third program (CarNumberGenerator) multithreaded generation car numbers //max 1000 numbers 
